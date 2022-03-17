@@ -1,0 +1,7 @@
+Sitemap: https://counterfitninja.github.io/sharpdesignservices/sitemap.xml
+Sitemap: https://counterfitninja.github.io/sharpdesignservices/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
